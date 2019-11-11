@@ -1,5 +1,8 @@
 _repo: Kettu-Repolainen-Goethen-Reineke-Fuchs-mukaelma_60639
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swan, Annie S.
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4770
     wikipedia: http://www.slainte.org.uk/scotauth/swanadsw.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60639#Kettu-Repolainen-Goethen-Reineke-Fuchs-mukaelma
 gutenberg_issued: '2019-11-07'
 gutenberg_type: Text
 identifiers:
